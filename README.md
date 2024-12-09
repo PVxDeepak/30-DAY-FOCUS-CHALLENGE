@@ -1,2 +1,2 @@
-# Track-Coding-time
-the web app or extension is used to track your vs code time while coding and it gives a dashboard of things while doing in ide with cool features 
+I created This Repostionry to do my all task and learnign curve and it acts as my daily routine i would have to follow the rules and credintial and i obliged my self and i never feel bad for myself again by doing things without not doing thinking it can not done that the without play a game feering we lost a gem i should remove this mindset with this consistent as i sawed others projects i feel how they are a happy then i am realising they consistently work on their projects regardless of small and big and i am one guy who never work a project for his portfolio i am the guy thinking like a let,s build some mega projects and but the process is the proceess so now i should follow the rules and regulations as one day should i win this process.
+
